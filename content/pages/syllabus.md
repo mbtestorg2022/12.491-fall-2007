@@ -43,20 +43,129 @@ Ohmoto, H., and M. B. Goldhaber. "Sulfur and Carbon Isotopes." In _Geochemistry 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introductory remarks: course structure and content |
-| 2-3 | Calculation of equilibrium mass-dependent isotope effects |
-| 4 | Sulfur and oxygen isotope fractionation in biological systems |
-| 5 | Sulfidic ocean: evidence and implications |
-| 6 | Proterozoic |
-| 7 | Diagnostic lipids for ocean euxinia |
-| 8 | Dimethylsulfides and atmospheric sulfur cycle |
-| 9 | Discussion topic selected by participants |
-| 10 | Molecular biology of sulfur |
-| 11 | Discussion topic selected by participants |
-| 12 | Organic sulfur and preservation of lipid biomarkers |
-| 13 | Discussion about selected topics 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory remarks: course structure and content
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Calculation of equilibrium mass-dependent isotope effects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sulfur and oxygen isotope fractionation in biological systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sulfidic ocean: evidence and implications
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Proterozoic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Diagnostic lipids for ocean euxinia
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Dimethylsulfides and atmospheric sulfur cycle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion topic selected by participants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular biology of sulfur
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion topic selected by participants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Organic sulfur and preservation of lipid biomarkers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion about selected topics
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
